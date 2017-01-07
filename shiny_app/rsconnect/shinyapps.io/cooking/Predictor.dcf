@@ -1,0 +1,9 @@
+name: Predictor
+account: cooking
+server: shinyapps.io
+appId: 66096
+bundleId: 672101
+url: https://cooking.shinyapps.io/Predictor/
+when: 1483782428.10642
+asMultiple: FALSE
+asStatic: FALSE
